@@ -1,0 +1,20 @@
+    1  git version
+    2  git config --global user.name "huang shaojie"
+    3  git config -global user.email huangshaojie@casachina.com.cn
+    4  git config --global user.email huangshaojie@casachina.com.cn
+    5  cd e:\assignment
+    6  git clone https://github.com/gukaee/assignment.git
+    7  git status
+    8  cd /assignment
+    9  cd e:\assignment
+   10  cd \assignment
+   11  git status
+   12  git branch -r
+   13  git branch
+   14  git checkout -b branch01
+   15  git branch
+   16  history >mylog.txt
+   17  git push -u origin branch01
+   18  histoty
+   19  history
+   20  history >mylog.txt
